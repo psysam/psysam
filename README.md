@@ -1,11 +1,8 @@
-![logo](https://images.app.goo.gl/miNG7zSZG65vxEpr8)
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
 <h3 align="center">A passionate frontend web-developer</h3>
-<img align ="right" alt="coding"widht="400" img src="https://images.app.goo.gl/ZqRU4m2dCkd9mqpk9">
+<img align="right" alt="Coder GIF" height=250 width=350 src="[[https://magiccopy.xyz/assets/images/hadder.gif](https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif)" ](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psysam&label=Profile%20views&color=0e75b6&style=flat" alt="psysam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psysam" alt="psysam" /></a> </p>
 
 - 🌱 I’m currently learning **reactjs**
 
