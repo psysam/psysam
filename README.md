@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 👨‍💻 All of my projects are available at [prince-singh-yadav-622033212](prince-singh-yadav-622033212)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-singh-yadav-622033212/)
 
 - 📫 How to reach me **psysam38@gmail.com**
 
