@@ -1,8 +1,9 @@
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
 <h3 align="center">A passionate frontend web-developer</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="[[https://magiccopy.xyz/assets/images/hadder.gif](https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif)" ](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psysam&label=Profile%20views&color=0e75b6&style=flat" alt="psysam" /> </p>
+<p align="left"> <img src="" alt="psysam" /> </p>
 
 - 🌱 I’m currently learning **reactjs**
 
