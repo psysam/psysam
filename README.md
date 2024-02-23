@@ -1,7 +1,7 @@
 ![Banner GitHub](assets/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
 <h3 align="center">A passionate frontend web-developer</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 img src="[[assets/programmer.gif)/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **reactjs**
 
