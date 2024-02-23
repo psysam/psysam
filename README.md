@@ -4,13 +4,15 @@
 <h3 align="center">A passionate frontend web-developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **react.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-singh-yadav-622033212/)
 
 - 📫 How to reach me **psysam38@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/prince_resume.pdf](file:///C:/Users/hp/Downloads/prince_resume.pdf)
+- 💬 Ask me about **React, JavaScript, HTMl & CSS**
+
+- 📄 See my resume [click here to see resume](assets/prince_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
