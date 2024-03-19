@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTMl & CSS**
 
-- My Personal Porfolio Website [https://psysamportfolio.000webhostapp.com/)
+- My Personal Porfolio Website [https://psysam.github.io/Portfolio/)
 
 - 📄 See my resume [click here to see resume](assets/prince_resume.pdf)
 
