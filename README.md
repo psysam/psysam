@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Web-Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-singh-yadav-622033212/)
 
