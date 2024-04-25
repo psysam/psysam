@@ -16,10 +16,9 @@
 
 - 📄 See my resume [click here to see resume](assets/prince_resume.pdf)
 
-<h3 align="left">Languages and Tools:</h3>
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
+
 <h2>🚀 Languages and Tools I Use</h2>
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
