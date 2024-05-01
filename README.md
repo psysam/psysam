@@ -25,7 +25,7 @@
 </p>
 
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2 align="center">🚀 Languages and Tools I Use</h2>
 
 *<h3 align="center">
     Frontend Development*
