@@ -124,7 +124,9 @@
 </div>  
   
 
-<br/>  
+<br/>
+
+###
 
 <h2 align="center"> Dashboard</h2>
 
@@ -137,9 +139,5 @@
 </div>
 
 ###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/psysam/psysam/output/snake.svg" alt="Snake animation" />
-
-###
 
