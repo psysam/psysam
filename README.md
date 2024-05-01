@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Web-Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif">
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-singh-yadav-622033212/)
 
