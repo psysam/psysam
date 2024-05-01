@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prince Singh Yadav</h1>
 
 <h3 align="center">A passionate Full Stack Web-Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/5hPVTh67LHurA8Jy6">
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif">
 
 - 🌱 I’m currently learning **Next.js**
 
