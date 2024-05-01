@@ -137,11 +137,9 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/psysam/psysam/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
