@@ -17,6 +17,14 @@
 - 📄 See my resume [click here to see resume](assets/prince_resume.pdf)
 
 
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-singh-yadav-622033212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-singh-yadav-622033212/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/streetpilot__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/streetpilot__/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Xm8vADns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Xm8vADns" height="30" width="40" /></a>
+</p>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 
 *<h3 align="center">
