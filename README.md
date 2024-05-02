@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Three.js**
 
+- 🔭 I’m currently working on **Chat App**
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-singh-yadav-622033212/)
 
 - 📫 How to reach me **psysam38@gmail.com**
