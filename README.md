@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTMl & CSS**
 
-- My Personal Porfolio Website [https://psysam.github.io/Portfolio/)
+- My Personal Porfolio Website [https://prince-personal-portfolio.netlify.app/)
 
 - 📄 See my resume [click here to see resume](assets/prince_resume.pdf)
 
