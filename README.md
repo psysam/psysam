@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 🔭 I’m currently working on **a Mern Project GetMeAChai (just like get me a coffe site)**
+- 🔭 I’m currently working on **A Mern Project GetMeAChai (just like get me a coffe site)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-singh-yadav-622033212/)
 
